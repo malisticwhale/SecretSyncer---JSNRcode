@@ -27,6 +27,7 @@ Long Answer: https://quantizr.github.io/posts/is-it-bannable/
  - O - Opens images of secret locations
  
 ### Commands:
+ - /room sync - when this command is put in chat it will come up with a GUI to customize settings.
  - /room - Tells you in chat what room you are standing in.
  - /room help - Displays this message in chat.
  - /room waypoints - Opens Secret Waypoints config GUI, alternatively can be opened with hotkey
