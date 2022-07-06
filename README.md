@@ -1,5 +1,5 @@
 
-# Dungeon Rooms Mod
+# SecretSyncer
 
 ### What it does:
 This mod adds Secret Waypoints to Skyblock Dungeons, allowing for faster and easier secret finding. The hotkey to configure waypoints is "P" by default.
@@ -38,9 +38,6 @@ Long Answer: https://quantizr.github.io/posts/is-it-bannable/
  - /room open - Opens the gui for opening either DSG or SBP.
  - /room dsg - Directly opens DSG in the Discord client.
  - /room sbp - Directly opens the SBP secrets (if you have the mod installed).
- 
-### Credits:
-Big thanks to the respective authors of Danker's Skyblock Mod, Skytils, and NEU for various pieces of code used in this mod.
-Thanks to DJtheRedstoner for various bug/performance fixes.
 
-Also, thanks to the Room Contributors in the Discord, especially Abd#5832 and Fawless#9843, for submitting rooms.
+
+Hope you enjoy this mod it took me A LONG time to make but i also really enjoyed creating it and i hope all of you enjoy using it.
