@@ -20,8 +20,6 @@ And for Slayer's it is a free alternative to SBE
 ### Is this bannable?
 Short answer: This mod follows the general interpretation of Hypixel's rules, does not modify packets in any way, and is most likely **not bannable**, but as with all mods, it is use at your own risk.
 
-Long Answer: https://quantizr.github.io/posts/is-it-bannable/
-
 ### Hotkeys: 
 (Configurable in Controls Menu)
  - P - Opens Secret Waypoints configuration GUI
